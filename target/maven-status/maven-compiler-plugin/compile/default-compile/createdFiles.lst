@@ -1,0 +1,7 @@
+com\learning\hdfsImportMR\HbaseReducer.class
+com\learning\tableImportMR\ImportTableDriver.class
+com\learning\TestAPI.class
+com\learning\tableImportMR\ImportTableReducer.class
+com\learning\hdfsImportMR\HbaseDriver.class
+com\learning\tableImportMR\ReadTableMapper.class
+com\learning\hdfsImportMR\HbaseMapper.class
